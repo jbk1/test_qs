@@ -1,1 +1,4 @@
 whats upstream remote used for?
+
+An 'upstream remote' is used in order 'push' changes 'upstream' to the 'remote
+repository' which sits on guthub, ie on the www.github.com servers.
