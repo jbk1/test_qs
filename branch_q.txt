@@ -1,1 +1,6 @@
 what is a branch?
+
+A branch is a 'work channel' if you like, a primary main branch called master 
+is where the master project will sit and separate branches can be created
+in order for the user to 'channel' further edits on a project without changing
+the master branch code. 
